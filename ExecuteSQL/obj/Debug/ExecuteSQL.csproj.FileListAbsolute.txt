@@ -1,8 +1,0 @@
-C:\Users\funza\Workspace\Magic\ExecuteSQL\ExecuteSQL\ExecuteSQL\bin\Debug\ExecuteSQL.exe.config
-C:\Users\funza\Workspace\Magic\ExecuteSQL\ExecuteSQL\ExecuteSQL\bin\Debug\ExecuteSQL.exe
-C:\Users\funza\Workspace\Magic\ExecuteSQL\ExecuteSQL\ExecuteSQL\bin\Debug\ExecuteSQL.pdb
-C:\Users\funza\Workspace\Magic\ExecuteSQL\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.SqlForm.resources
-C:\Users\funza\Workspace\Magic\ExecuteSQL\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.Properties.Resources.resources
-C:\Users\funza\Workspace\Magic\ExecuteSQL\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.csproj.GenerateResource.Cache
-C:\Users\funza\Workspace\Magic\ExecuteSQL\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.exe
-C:\Users\funza\Workspace\Magic\ExecuteSQL\ExecuteSQL\ExecuteSQL\obj\Debug\ExecuteSQL.pdb
